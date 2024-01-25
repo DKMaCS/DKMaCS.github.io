@@ -8,12 +8,12 @@ following areas:
 
 <div align="center" markdown="1">
 
-| Techniques                                       | Coding                           |
-|--------------------------------------------------|----------------------------------|
-| Multivariate statistics and regression analysis  | Python, Java, C, R, Git, SQL     |
-| Machine/deel learning frameworks                 | Object-oriented programming      |
-| Causal inference                                 | Distributed computing            |
-| Model Optimization and validation                | Test/Behavior-driven development |
+| Techniques                                       | Coding                       |
+|--------------------------------------------------|------------------------------|
+| Multivariate statistics and regression | Python, Java, C, R, Git, SQL |
+| Machine/deel learning frameworks                 | Object-oriented programming  |
+| Causal inference                                 | Distributed computing        |
+| Model Optimization and validation                | Database management          |
 
 </div>
 
