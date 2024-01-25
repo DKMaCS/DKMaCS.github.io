@@ -75,7 +75,7 @@ Bank of Oklahoma, N.A. – Houston, TX <span style="float: right;">2012 - 2014</
 
 <span style="text-decoration:underline;">Current</span>
 
-**Stochastic Optimal Control for multiperiod MVO:**\
+**Stochastic Optimal Control for multiperiod MVO:**
 <div style="text-align: justify;">
 Solving for optimal policy for a multiperiod portfolio comprised of a single risky
 asset and risk-free asset. This project utilizes principles of dynamic programming, particularly
@@ -83,7 +83,7 @@ in solving the HJB equation. Implementation includes multiproccessing and Docker
 with Kubernetes deployment and management. 
 </div>
 
-**Wildfire Prevention Data Analytics**:\
+**Wildfire Prevention Data Analytics**:
 <div style="text-align: justify;">
 Working with CrowdDoing, a not-for-profit organization, identifying core Wildfire exposures and
 anomalies, guiding the creation of the Wildfire Prevention Scorecard platform for use by public 
@@ -93,7 +93,7 @@ government.
 
 <span style="text-decoration:underline;">Past</span>
 
-**Time Series Analysis of Australian Weather Patterns**:\
+**Time Series Analysis of Australian Weather Patterns**:
 <div style="text-align: justify;">
 Analyzed and transformed raw data from 2001 to 2015 to find best model fit, accommodating for trends, 
 seasonality, and remaining patterns. EDA and signal decompositions were used to guide our choice in 
@@ -105,7 +105,7 @@ explored to validate assumptions were upheld; and model fit was determined by us
 Grade: A.
 </div>
 
-**Identifying Factors Influencing U.S. GDP**:\
+**Identifying Factors Influencing U.S. GDP**:
 <div style="text-align: justify;">
 Explored relationships between various IVs and our DV, U.S. GDP, using multivariate regression. Typical EDA
 techniques were used to identify necessary variable transformations, feature engineering was employed,
