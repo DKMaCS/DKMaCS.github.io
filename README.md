@@ -72,7 +72,7 @@ Bank of Oklahoma, N.A. – Houston, TX <span style="float: right;">2012 - 2014</
 ● Contributed in the underwriting of a $300MM syndicated loan expansion in a total $1.2B debt package. 
 
 ### PROJECTS
-<u>Current</u>
+<span style="text-decoration:underline;">Current</span>
 
 **Stochastic Optimal Control for multiperiod MVO:**\
 Solving for optimal policy for a multiperiod portfolio comprised of a single risky
@@ -86,7 +86,7 @@ anomalies, guiding the creation of the Wildfire Prevention Scorecard platform fo
 and private stakeholders alike. The scorecard has already been adopted by the South Korean 
 government. 
 
-<u>Past</u>
+<span style="text-decoration:underline;">Past</span>
 
 **Time Series Analysis of Australian Weather Patterns**:\
 
