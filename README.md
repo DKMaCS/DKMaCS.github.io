@@ -20,13 +20,13 @@ following areas:
 </div>
 
 ### EDUCATION
-MS Computer Science, DePaul University <span style="float: right;">2019 - 2021</span>\
-_Master of Science in Computer Science, GPA: 3.7_ \
-Clubs: CFA Society of Chicago (Professional Development Advisory Group)
-
 MS Mathematical Sciences, NYU <span style="float: right;">2021 - 2023</span> \
 _Master of Science in Mathematical Sciences_ \
 Clubs: CFA Society of New York 
+
+MS Computer Science, DePaul University <span style="float: right;">2019 - 2021</span>\
+_Master of Science in Computer Science, GPA: 3.7_ \
+Clubs: CFA Society of Chicago (Professional Development Advisory Group)
 
 ### EXPERIENCE
 _**Student Research Scientist**_ \
@@ -72,6 +72,7 @@ Bank of Oklahoma, N.A. – Houston, TX <span style="float: right;">2012 - 2014</
 ● Contributed in the underwriting of a $300MM syndicated loan expansion in a total $1.2B debt package. 
 
 ### PROJECTS
+
 <span style="text-decoration:underline;">Current</span>
 
 **Stochastic Optimal Control for multiperiod MVO:**\
@@ -89,7 +90,21 @@ government.
 <span style="text-decoration:underline;">Past</span>
 
 **Time Series Analysis of Australian Weather Patterns**:\
+Analyzed and transformed raw data from 2001 to 2015 to find best model fit, accommodating for trends, 
+seasonality, and remaining patterns. EDA and signal decompositions were used to guide our choice in 
+viable model frameworks; transformations, like Box-Cox and lag-1 differencing were utilized to 
+address persistent seasonality in the remaining portion of our decomposition and impart stationarity, 
+respectively; ACF and PACF plots were explored to identify appropriate parameters for (S)ARIMA model
+fitting; AIC and BIC metrics were used to weight model complexity trade-offs; model residuals were 
+explored to validate assumptions were upheld; and model fit was determined by using the RMSE cost function. 
+Grade: A.
 
+**Identifying Factors Influencing U.S. GDP**:\
+Explored relationships between various IVs and our DV, U.S. GDP, using multivariate regression. Typical EDA
+techniques were used to identify necessary variable transformations, feature engineering was employed,
+variable t-stats were used to identify influential variables, AIC and BIC metrics were used to find the optimal
+trade-off between model complexity and accuracy, F-stat was also consulted to determine overall model significance, 
+and RMSE (over OOS data) was used to judge our final model accuracy. Grade: A.
 
 
 
