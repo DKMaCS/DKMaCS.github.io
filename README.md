@@ -111,7 +111,8 @@ Explored relationships between various IVs and our DV, U.S. GDP, using multivari
 techniques were used to identify necessary variable transformations, feature engineering was employed,
 variable t-stats were used to identify influential variables, AIC and BIC metrics were used to find the optimal
 trade-off between model complexity and accuracy, F-stat was also consulted to determine overall model significance, 
-and RMSE (over OOS data) was used to judge our final model accuracy. Grade: A.
+and RMSE (over OOS data) was used to judge our final model accuracy. Model residuals were tested to ensure regression
+model assumptions were upheld. Grade: A.
 </div>
 
 
