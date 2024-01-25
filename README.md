@@ -1,7 +1,7 @@
 # Data Scientist
 
 ### EDUCATION
-MS Computer Science, DePaul University
+MS Computer Science, DePaul University \
 MS Mathematical Sciences, NYU
 
 ### EXPERIENCE
