@@ -30,7 +30,7 @@ Clubs: CFA Society of New York
 
 ### EXPERIENCE
 _**Student Research Scientist**_ \
-NYU Active Portfolio Management with ML and Time-Series Forecasting – New York, NY <span style="float: right;">2023</span>\
+NYU Active Portfolio Management with ML – New York, NY <span style="float: right;">2023</span>\
 ● Researched and tested models for policy development in deep reinforcement learning techniques for portfolio management.\
 ● Backtest strategies against historical data and measure model efficacy.\
 ● Responsible for EDA, data fetching, and ML pipeline development.\
@@ -70,6 +70,25 @@ _**Credit Analyst II**_ \
 Bank of Oklahoma, N.A. – Houston, TX <span style="float: right;">2012 - 2014</span>\
 ● Diligently applied a balanced approach of fundamental analysis and monitoring in the recommendation of middle market clients. \
 ● Contributed in the underwriting of a $300MM syndicated loan expansion in a total $1.2B debt package. 
+
+### PROJECTS
+<u>Current</u>
+
+**Stochastic Optimal Control for multiperiod MVO:**\
+Solving for optimal policy for a multiperiod portfolio comprised of a single risky
+asset and risk-free asset. This project utilizes principles of dynamic programming, particularly
+in solving the HJB equation. Implementation includes multiproccessing and Docker containerization
+with Kubernetes deployment and management. 
+
+**Wildfire Prevention Data Analytics**:\
+Working with CrowdDoing, a not-for-profit organization, identifying core Wildfire exposures and
+anomalies, guiding the creation of the Wildfire Prevention Scorecard platform for use by public 
+and private stakeholders alike. The scorecard has already been adopted by the South Korean 
+government. 
+
+<u>Past</u>
+
+**Time Series Analysis of Australian Weather Patterns**:\
 
 
 
