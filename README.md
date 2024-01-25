@@ -28,6 +28,8 @@ MS Computer Science, DePaul University <span style="float: right;">2019 - 2021</
 _Master of Science in Computer Science, GPA: 3.7_ \
 Clubs: CFA Society of Chicago (Professional Development Advisory Group)
 
+---
+
 ### EXPERIENCE
 _**Student Research Scientist**_ \
 NYU Active Portfolio Management with ML – New York, NY <span style="float: right;">2023</span>\
@@ -70,6 +72,8 @@ _**Credit Analyst II**_ \
 Bank of Oklahoma, N.A. – Houston, TX <span style="float: right;">2012 - 2014</span>\
 ● Diligently applied a balanced approach of fundamental analysis and monitoring in the recommendation of middle market clients. \
 ● Contributed in the underwriting of a $300MM syndicated loan expansion in a total $1.2B debt package. 
+
+---
 
 ### PROJECTS
 
