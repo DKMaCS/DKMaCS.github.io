@@ -76,7 +76,7 @@ Bank of Oklahoma, N.A. – Houston, TX <span style="float: right;">2012 - 2014</
 <span style="text-decoration:underline;">Current</span>
 
 **Stochastic Optimal Control for multiperiod MVO:**
-<div style="text-align: justify;">
+<div style="text-align: justify; margin-bottom: 20px;">
 Solving for optimal policy for a multiperiod portfolio comprised of a single risky
 asset and risk-free asset. This project utilizes principles of dynamic programming, particularly
 in solving the HJB equation. Implementation includes multiproccessing and Docker containerization
@@ -84,7 +84,7 @@ with Kubernetes deployment and management.
 </div>
 
 **Wildfire Prevention Data Analytics**:
-<div style="text-align: justify;">
+<div style="text-align: justify; margin-bottom: 20px;">
 Working with CrowdDoing, a not-for-profit organization, identifying core Wildfire exposures and
 anomalies, guiding the creation of the Wildfire Prevention Scorecard platform for use by public 
 and private stakeholders alike. The scorecard has already been adopted by the South Korean 
@@ -94,7 +94,7 @@ government.
 <span style="text-decoration:underline;">Past</span>
 
 **Time Series Analysis of Australian Weather Patterns**:
-<div style="text-align: justify;">
+<div style="text-align: justify; margin-bottom: 20px;">
 Analyzed and transformed raw data from 2001 to 2015 to find best model fit, accommodating for trends, 
 seasonality, and remaining patterns. EDA and signal decompositions were used to guide our choice in 
 viable model frameworks; transformations, like Box-Cox and lag-1 differencing were utilized to 
@@ -102,11 +102,11 @@ address persistent seasonality in the remaining portion of our decomposition and
 respectively; ACF and PACF plots were explored to identify appropriate parameters for (S)ARIMA model
 fitting; AIC and BIC metrics were used to weight model complexity trade-offs; model residuals were 
 explored to validate assumptions were upheld; and model fit was determined by using the RMSE cost function. 
-Grade: A.
+Grade: A. 
 </div>
 
 **Identifying Factors Influencing U.S. GDP**:
-<div style="text-align: justify;">
+<div style="text-align: justify; margin-bottom: 20px;">
 Explored relationships between various IVs and our DV, U.S. GDP, using multivariate regression. Typical EDA
 techniques were used to identify necessary variable transformations, feature engineering was employed,
 variable t-stats were used to identify influential variables, AIC and BIC metrics were used to find the optimal
