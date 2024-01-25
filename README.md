@@ -10,12 +10,12 @@ following areas:
 
 <div align="center" style="border:none" markdown="1">
 
-| Techniques/Methods                       | Coding                         |
-|------------------------------------------|--------------------------------|
-| • Multivariate statistics and regression | • Python, Java, C, R, Git, SQL |
-| • Machine/deep learning frameworks       | • Object-oriented programming  |
-| • Causal inference                       | • Distributed computing        |
-| • Model optimization and validation      | • Database management          |
+|             Techniques/Methods             |              Coding              |
+|:------------------------------------------:|:--------------------------------:|
+|  • Multivariate statistics and regression  |  • Python, Java, C, R, Git, SQL  |
+|     • Machine/deep learning frameworks     |  • Object-oriented programming   |
+|             • Causal inference             |     • Distributed computing      |
+|    • Model optimization and validation     |      • Database management       |
 
 </div>
 
