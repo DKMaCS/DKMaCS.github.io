@@ -8,14 +8,14 @@ computational methods. I have earned my charter holder designation with the CFA 
 following areas:
 </div>
 
-<div align="center" markdown="1">
+<div align="center" style="border:none" markdown="1">
 
-| Techniques/Methods                       | Coding                       |
-|------------------------------------------|------------------------------|
+| Techniques/Methods                       | Coding                         |
+|------------------------------------------|--------------------------------|
 | • Multivariate statistics and regression | • Python, Java, C, R, Git, SQL |
 | • Machine/deep learning frameworks       | • Object-oriented programming  |
 | • Causal inference                       | • Distributed computing        |
-| • Model Optimization and validation      | • Database management          |
+| • Model optimization and validation      | • Database management          |
 
 </div>
 
