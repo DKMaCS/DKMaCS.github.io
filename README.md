@@ -110,9 +110,22 @@ Grade: A.
 Explored relationships between various IVs and our DV, U.S. GDP, using multivariate regression. Typical EDA
 techniques were used to identify necessary variable transformations, feature engineering was employed,
 variable t-stats were used to identify influential variables, AIC and BIC metrics were used to find the optimal
-trade-off between model complexity and accuracy, F-stat was also consulted to determine overall model significance, 
+trade-off between model complexity and accuracy, an F-test was also consulted to determine overall model significance, 
 and RMSE (over OOS data) was used to judge our final model accuracy. Model residuals were tested to ensure regression
 model assumptions were upheld. Grade: A.
+</div>
+
+**Predicting Home Prices**:
+<div style="text-align: justify; margin-bottom: 20px;">
+Constructed a home price prediction model based on property profile and past property sales from years 2006-2010. 
+Dataset consisted of 113 features and ~4,000 recorded transactions in the Ames, IA region. After feature engineering, 
+dropping linearly dependent features, and forward and back selection, we were left with 26 features. Multicollinearity 
+was confirmed to be a non-issue using correlation matrices and the VIF metric. Since we were dealing with price, 
+log transformations were made to normalize any undue magnitude effects. Cross-validation was utilized in training to 
+encourage a robust model. Model assumptions were checked by checking that residuals were close to zero and normally
+distributed, running a Durbin-Watson test to ensure residual independence, and finally plotting residuals to confirm
+residuals were homoscedastic. 
+Grade: A.
 </div>
 
 
