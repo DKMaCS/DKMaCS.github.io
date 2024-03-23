@@ -22,7 +22,7 @@ following areas:
 ### EDUCATION
 
 Colorado State University <span style="float: right;">2024-2029 (expected)</span> \
-_PhD Candidate in Computer Sciences_ \
+_PhD Candidate in Computer Science_ \
 Clubs: N/A
 
 New York University <span style="float: right;">2021 - 2023</span> \
