@@ -20,11 +20,16 @@ following areas:
 </div>
 
 ### EDUCATION
-MS Mathematical Sciences, NYU <span style="float: right;">2021 - 2023</span> \
+
+Colorado State University <span style="float: right;">2024-2029 (expected)</span> \
+_PhD Candidate in Computer Sciences_ \
+Clubs: N/A
+
+New York University <span style="float: right;">2021 - 2023</span> \
 _Master of Science in Mathematical Sciences_ \
 Clubs: CFA Society of New York 
 
-MS Computer Science, DePaul University <span style="float: right;">2019 - 2021</span>\
+DePaul University <span style="float: right;">2019 - 2021</span>\
 _Master of Science in Computer Science, GPA: 3.7_ \
 Clubs: CFA Society of Chicago (Professional Development Advisory Group)
 
