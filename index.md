@@ -58,6 +58,8 @@ learning the bass guitar, playing with my dog (Bert), and enjoying a relaxing me
 ## Bert
 ![bert](./assets/img/bert.jpg)
 
-[//]: # ({% include_relative _includes/publications.md %})
+<!--
+{% include_relative _includes/publications.md %}
 
-[//]: # ({% include_relative _includes/services.md %})
+{% include_relative _includes/services.md %}
+-->
