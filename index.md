@@ -27,7 +27,7 @@ learning the bass guitar, playing with my dog (Bert), and enjoying a relaxing me
 ## News
 
 - **[Aug. 2024]** Began my CS PhD journey @ CSU
-- **[May. 2022]** Completed MS in Mathematical Sciences @ NYU
+- **[May. 2023]** Completed MS in Mathematical Sciences @ NYU
 
 ## Coding Skills
 
